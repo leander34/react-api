@@ -1,0 +1,3 @@
+npx create-react-app .
+npm i eslint babel-eslint prettier eslint-config-prettier eslint-plugin-prettier -D
+npx eslint --init
